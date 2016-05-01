@@ -1,0 +1,28 @@
+name: socialmediapost
+favicon: null
+layout_spectrum: 0.17027794383466244
+typography_spectrum: 0.2191328126937151
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9872578505892307
+  lightness: 0.06333258422091603
+  saturation: 0.002882309490814805
+  rhythmicContrast: 0.7392404088750482
+purpose: []
